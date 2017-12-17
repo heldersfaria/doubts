@@ -1,2 +1,1 @@
-# doubts
-This repository intends to write doubts.
+This repository means to suggests pieces of hazard code.
